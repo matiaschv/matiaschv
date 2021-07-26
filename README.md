@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @matiaschv, I like sports, especially swimming, I try to do new things and participate in everything I can. Tech Enthusiast, I like to learn and explore.
+- 👀 I’m interested in Cloud Native an Machine Learning.
+- 🔭 I’m currently working on Sonda
+- 🌱 I’m currently learning about Cloud Development: Azure, AWS and Google, Docker and Kubernetes, machine learning.
+- 📫 How to reach me: My email address is - matias.chamorro.v@gmail.com
